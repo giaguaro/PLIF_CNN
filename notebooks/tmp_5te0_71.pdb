@@ -1,0 +1,15 @@
+HETATM    1  C35 XIN A 401      -0.911 -38.946  -4.606  1.00 35.26           C  
+HETATM    2  C36 XIN A 401       1.287 -38.097  -4.123  1.00 36.57           C  
+HETATM    3  C37 XIN A 401      -0.671 -40.090  -3.639  1.00 35.48           C  
+HETATM    4  C38 XIN A 401       1.515 -39.256  -3.177  1.00 35.62           C  
+HETATM    5  C40 XIN A 401       0.483 -40.810  -1.642  1.00 35.90           C  
+HETATM    6  N34 XIN A 401       0.356 -38.480  -5.196  1.00 35.08           N  
+HETATM    7  N39 XIN A 401       0.256 -39.695  -2.582  1.00 35.14           N  
+HETATM    8  H1  UNL     1       0.125 -37.362  -6.110  1.00  0.00           H  
+CONECT    1    3    6
+CONECT    2    4    6
+CONECT    3    7
+CONECT    4    7
+CONECT    5    7
+CONECT    6    8
+END
